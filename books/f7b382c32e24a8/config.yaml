@@ -10,3 +10,5 @@ toc_depth: 2
 chapters:
   - '01'
   - '02'
+
+allow_override: true

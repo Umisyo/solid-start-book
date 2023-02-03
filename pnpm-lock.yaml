@@ -1,7 +1,5 @@
 lockfileVersion: 5.4
 
-allow_override: true
-
 specifiers:
   zenn-cli: ^0.1.137
 
